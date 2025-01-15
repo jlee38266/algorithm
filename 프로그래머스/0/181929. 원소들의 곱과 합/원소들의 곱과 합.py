@@ -9,8 +9,6 @@ def solution(num_list):
     # print(case1**2)
     # print(case2)
     if case1**2 > case2:
-        return 1
-    else:
-        answer
-    
+        answer = 1
+        
     return answer
